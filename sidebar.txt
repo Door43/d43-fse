@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[fse:home|Door43 (fse)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-fse|d43-fse repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-fse/archive/master.zip|d43-fse.zip]]
+
+**Recent Changes**
+{{changes>ns = fse}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/fse|Ethnologue data]]
+
